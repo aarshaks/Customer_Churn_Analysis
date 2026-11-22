@@ -23,9 +23,8 @@ The dataset contains customer information, including:
 - Aggregate Functions
 - CASE WHEN
 - Subqueries
-- JOIN Operations
 - RANK() and DENSE_RANK()
-- COUNT(DISTINCT), COALESCE()
+- COUNT(DISTINCT)
 
 Key Analysis
 - Analyzed overall customer churn.
